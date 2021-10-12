@@ -1,4 +1,4 @@
-# Htec_assignment
+# ***_assignment
 This is a guide how to run the automated tests for the exam scenario.
 
 Environment and tools:  
